@@ -259,8 +259,7 @@ GitHub:
 https://github.com/Shubham-Soni-Coder
 
 LinkedIn:
-(Add your LinkedIn profile link here)
-
+https://www.linkedin.com/in/shubham-soni-a99285309/
 ---
 
 ⭐ If you found this project useful, consider giving the repository a star.
